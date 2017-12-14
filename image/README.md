@@ -1,1 +1,1 @@
-This folder contains all the chart used in the exploratory data analysis. 
+This folder contains charts used in the exploratory data analysis. 
